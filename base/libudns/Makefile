@@ -7,7 +7,7 @@
 
 include $(TOPDIR)/rules.mk
 
-PKG_NAME:=udns
+PKG_NAME:=libudns
 PKG_VERSION:=0.4
 PKG_RELEASE:=1
 
